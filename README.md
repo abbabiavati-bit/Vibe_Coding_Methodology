@@ -1,4 +1,4 @@
-# Vibe Coding Methodology
+# Agentic Engineering Methodology
 
 A structured, human-led methodology for planning and executing software projects with AI coding agents. Built from practitioner experience and refined with research from Andrej Karpathy, Addy Osmani, and the broader AI-assisted development community.
 
